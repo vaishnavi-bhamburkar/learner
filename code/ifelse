@@ -1,0 +1,27 @@
+/*#include<stdio.h>
+int main()
+{
+int a,b;
+scanf("%d %d",&a,&b);
+if(a>b){
+    printf("a is greater");
+     }
+ else if(b>a){
+    printf(" b is greater");
+  }
+  else
+     printf("Both are equals");
+}
+*/
+#include<stdio.h>
+int main()
+{
+int month;
+printf("Enter the number between 1 and 12:");
+scanf("%d",&month);
+if (month==1)
+printf("january\n");
+else if (month==2)'
+printf("febuary\n");
+
+
